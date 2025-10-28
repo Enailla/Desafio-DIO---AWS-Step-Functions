@@ -49,6 +49,7 @@ Disparo de eventos recorrentes via EventBridge;
 Envio de notificações e automações inteligentes.
 
 Vantagens
+
 ✅ Reduz a quantidade de código manual
 
 ✅ Facilita a criação de fluxos automatizados
